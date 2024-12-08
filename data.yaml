@@ -1,0 +1,6 @@
+path: ../data  # Path to your output dataset folder
+train: data/images/train           # Path to training images
+val: data/images/val               # Path to validation images
+
+nc: 1                         # Number of classes (1 for bee)
+names: ['bee']  
