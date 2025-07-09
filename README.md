@@ -8,7 +8,7 @@ BeeVision is an AI-powered pipeline for detecting, tracking, and classifying bee
 
 ## Conservation Motivation
 
-Bees pollinate over 70% of global crops, yet their populations are under severe threat due to pesticides and climate change. Wasps, while ecologically important as predators, also pose risks to beehives. Accurately distinguishing bees from wasps — and understanding their movement — is crucial for developing targeted, minimally invasive conservation strategies.
+Bees pollinate over 70% of global crops, yet their populations are under severe threat due to pesticides and climate change. Wasps, while ecologically important as predators, also pose risks to beehives. Accurately distinguishing bees from wasps and understanding their movement is crucial for developing targeted and minimally invasive conservation strategies.
 
 ---
 
